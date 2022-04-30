@@ -11,6 +11,7 @@ import { ContactoComponent } from './contacto/contacto.component';
 import { FooterComponent } from './footer/footer.component';
 import { LoginComponent } from './login/login.component';
 import { SkillsComponent } from './skills/skills.component';
+import { PresentacionComponent } from './presentacion/presentacion.component';
 
 @NgModule({
   declarations: [
@@ -23,7 +24,8 @@ import { SkillsComponent } from './skills/skills.component';
     ContactoComponent,
     FooterComponent,
     LoginComponent,
-    SkillsComponent
+    SkillsComponent,
+    PresentacionComponent
   ],
   imports: [
     BrowserModule
