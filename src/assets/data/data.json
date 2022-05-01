@@ -1,7 +1,7 @@
 {
-    "nombre": "Eduardo Manolo Cabral",
-    "soy": "Full Stack Jr.",
-    "intereses":[
+    "name": "Eduardo Manuel Cabral",
+    "position": "Full Stack Jr.",
+    "interest":[
         {
             "1": "Música",
             "2": "Literatura",
@@ -12,25 +12,25 @@
         }
     
     ],
-    "educacion": [
+    "education": [
         {
-            "primaria": "Colegio Salvador Soreda",
-            "secundaria": "Escuela de Comercio N°1 Joaquin V. González",
+            "primary": "Colegio Salvador Soreda",
+            "secundary": "Escuela de Comercio N°1 Joaquin V. González",
             "superior":  [
                 {
-                 "universidad":"Undav, Universidad de Avellaneda",   
-                 "carrera": "Ingeniería en Informática"
+                 "university":"Undav, Universidad de Avellaneda",   
+                 "grade": "Ingeniería en Informática"
             }
             ],
-            "AP": "Argentina Programa, Ministerio de Desarrollo Productivo",
-            "IALAB": "Programa Básico Multidisciplinario de Formación en Datos e Inteligencia Artificial - IALAB UBA. Certificado en trámite"
+            "others": "Argentina Programa, Ministerio de Desarrollo Productivo",
+            "IA": "Programa Básico Multidisciplinario de Formación en Datos e Inteligencia Artificial - IALAB UBA. Certificado en trámite"
         }
     ],
-    "contacto": [
+    "contact": [
         {
             "mail": "eduardomcabral1974@gmail.com",
-            "telefono": "1131759904",
-            "localidad": "Avellaneda"
+            "telephone": "1131759904",
+            "city": "Avellaneda"
 
         }
     ]
